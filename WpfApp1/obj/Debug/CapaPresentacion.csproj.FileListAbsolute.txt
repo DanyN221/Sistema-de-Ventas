@@ -1,0 +1,46 @@
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaEntidad.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaNegocio.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaDatos.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaEntidad.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaNegocio.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\bin\Debug\CapaDatos.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\Vistas\ProductoWindow.baml
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\Vistas\ProductoWindow.g.cs
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\App.g.cs
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\SENATI\Music\Servicios\SistemaVentas\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaEntidad.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaNegocio.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaDatos.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaEntidad.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaNegocio.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\bin\Debug\CapaDatos.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\Vistas\ProductoWindow.baml
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\Vistas\ProductoWindow.g.cs
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\App.g.cs
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\WpfApp1\obj\Debug\WpfApp1.pdb
