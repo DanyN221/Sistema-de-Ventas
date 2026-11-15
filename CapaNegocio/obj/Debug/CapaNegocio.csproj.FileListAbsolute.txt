@@ -1,0 +1,22 @@
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\SENATI\Music\Servicios\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\SENATI\Desktop\Trabajo de Organizacion\CapaNegocio\obj\Debug\CapaNegocio.pdb
