@@ -1,9 +1,0 @@
-<Solution>
-  <Project Path="CapaDatos/CapaDatos.csproj" Id="84190ad8-3a94-48c1-a5be-8aef757d17af" />
-  <Project Path="CapaEntidad/CapaEntidad.csproj" Id="aa52189a-10dc-4acb-b321-ac96d3081adf" />
-  <Project Path="CapaNegocio/CapaNegocio.csproj" Id="2507d721-9d1e-4e5d-ad5f-8fe190639682" />
-  <Project Path="SistemaVentas/SistemaVentas.vdproj" Type="Installer">
-    <Build />
-  </Project>
-  <Project Path="WpfApp1/CapaPresentacion.csproj" Id="996ecdd5-6cca-438e-81a7-b3ed74d22924" />
-</Solution>
